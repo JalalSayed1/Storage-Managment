@@ -13,5 +13,8 @@ Rudimentary storage allocator using the Stack data structure. Section 5.4 of The
 - If there is no room, `alloc` returns zero.
 - `afree(p)` merely sets `allocp` to `p` if `p` if inside `allocbuf`.
 
+![image](https://user-images.githubusercontent.com/92950538/179277669-ea4fcdb3-1839-465b-856b-14b39fe7f992.png)
+
+
 ## What did I learn from this:
 
