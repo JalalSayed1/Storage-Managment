@@ -17,4 +17,5 @@ Rudimentary storage allocator using the Stack data structure. Section 5.4 of The
 
 
 ## What did I learn from this:
-
+- Arrays with pointers in C.
+- Pointer arithmetics and comparison.
