@@ -1,4 +1,4 @@
-# Storage Managment
+# Storage Management
 Rudimentary storage allocator using the Stack data structure. Section 5.4 of The C Programming Language.
 
 ## About the project:
